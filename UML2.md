@@ -31,7 +31,7 @@
 -                方法：成绩表下载、学期筛选、成绩打印
 -                作用：为学生提供查询成绩功能
 -                权限：public
--    学期筛选类：属性：全部数据、**学年至**学年*学期
+-    学期筛选类：属性：全部数据、学年 至 学年 学期
 -                方法：打印、查询
 -                作用：选择所要查询的学期
 -                权限：public
@@ -57,7 +57,7 @@
 - 学期筛选类与科目类1：n的关联
 - 成绩类、学分类分别与科目类1：1的关联
 - 4）使用 staruml 画出该功能模块
- ![Image text](https://github.com/Th84-rex/tanghaikang20182123030.github.io/blob/gh-pages/%E5%9B%BE%E5%83%8F/%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2.png)
+-  ![Image text](https://github.com/Th84-rex/tanghaikang20182123030.github.io/blob/gh-pages/%E5%9B%BE%E5%83%8F/%E6%88%90%E7%BB%A9%E6%9F%A5%E8%AF%A2.png)
 
 
 
@@ -93,4 +93,4 @@
 -             方法：发布教学心得、查看教学心得、修改教学心得
 -             作用：教师用户对自己的教学心得的管理
 -             权限：public
-![Image text](https://github.com/Th84-rex/tanghaikang20182123030.github.io/blob/gh-pages/%E5%9B%BE%E5%83%8F/%E8%BF%9C%E7%A8%8B%E7%BD%91%E7%BB%9C%E6%95%99%E5%AD%A6%E7%B3%BB%E7%BB%9F.png)
+- ![Image text](https://github.com/Th84-rex/tanghaikang20182123030.github.io/blob/gh-pages/%E5%9B%BE%E5%83%8F/%E8%BF%9C%E7%A8%8B%E7%BD%91%E7%BB%9C%E6%95%99%E5%AD%A6%E7%B3%BB%E7%BB%9F.png)
